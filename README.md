@@ -23,6 +23,7 @@ To run the code just run the enigma.js from Node
   ```
 
 # Notes
-- `fixedRot` and `cablesMap` , needs to be mapped as circular eg.( A->B, B->A, X->Z Z->X)
+- `fixedRot` and `cablesMap` , needs to be mapped as circular eg.( A->B, B->A, X->Z, Z->X)
 - for now only supports uppercase letters (A - Z) other characters are ignored
+- use `scrable-rotors.js` to create a random rotor
 
